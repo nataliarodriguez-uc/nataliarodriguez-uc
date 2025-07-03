@@ -24,7 +24,7 @@ While my foundation is in operations research and machine learning, I am increas
 I currently have two main projects that I worked on during my undergraduate and graduate journey, which I have continued to build on since then. At UPR Mayagüez, my work centered on applying machine learning frameworks to improve survival prediction in pancreatic cancer, using feature selection techniques to enhance model performance. Later at UC Berkeley, I developed optimization methods to improve training efficiency in contrastive learning tasks, focusing on proximal and Newton-based approaches for AUC maximization.  
 
 #### Current Role:
-I'm now a computing graduate intern at Lawrence Livermore National Laboratory in Livermore, CA. My internship project is focused on researching global optimization for acquisition functions in black-box functions, particularily in the Bayesian Optimization setting. The goal is to derive an computationally efficient optimization algorithm for acquisition functions under high-fidelity (high dimensional) datasets, keeping in mind potential contributions to overall acquisition function convergence.   
+I'm now a Computing Graduate Intern as part of the Computing Scholar Program at Lawrence Livermore National Laboratory in Livermore, CA. My internship project is focused on researching global optimization for acquisition functions in black-box functions, particularily in the Bayesian Optimization setting. The goal is to derive an computationally efficient optimization algorithm for acquisition functions under high-fidelity (high dimensional) datasets, keeping in mind potential contributions to overall acquisition function convergence.   
 
 ---
 
