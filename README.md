@@ -13,7 +13,7 @@ You can also find me on LinkedIn here: <a href="https://www.linkedin.com/in/nata
 
 ### About my Interests
 
-I am interested in machine learning, data science, and their growing range of real-world applications — particularly in fields like healthcare, engineering systems, and business operations. Even so, what excites me most is going beyond implementation: using optimization, mathematical modeling, and statistical learning to improve how intelligent systems are built and understood.
+I am interested in machine learning, data science, and their growing range of real-world applications, particularly in fields like healthcare, engineering systems, and business operations. Even so, what excites me most is going beyond implementation: using optimization, mathematical modeling, and statistical learning to improve how intelligent systems are built and understood.
 
 While my foundation is in operations research and machine learning, I am increasingly focused on how optimization helps us design smarter, more interpretable, and more efficient AI systems. I’m especially drawn to the theoretical contributions of machine learning, and how rigorous modeling can support advances in algorithmic performance and real-world impact. I'm currently learning more about AI structures through advances on my past and current project applications. 
 
