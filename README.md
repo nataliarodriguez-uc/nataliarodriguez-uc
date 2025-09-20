@@ -25,7 +25,7 @@ I currently have two main projects that I worked on during my undergraduate and 
 
 #### Current Role:
 
-I recently completed a Computing Graduate Internship at Lawrence Livermore National Laboratory through the Computing Scholar Program. My project focused on developing computationally efficient algorithms for global optimization of acquisition functions in Bayesian Optimization, particularly under high-dimensional, high-fidelity data settings. 
+I recently completed a Computing Graduate Internship at Lawrence Livermore National Laboratory (LLNL) through the Computing Scholar Program. My project focused on developing computationally efficient algorithms for global optimization of acquisition functions in Bayesian Optimization, particularly under high-dimensional, high-fidelity data settings. 
 
 Building on this experience, I am continuing to support LLNL’s [HiOp open-source repository](https://github.com/LLNL/hiop), contributing research efforts on acquisition optimization problems using branch-and-bound methods. Our goal is to advance scalable and reliable strategies for global optimization of black-box functions, with applications in Bayesian Optimization and beyond.  
 
