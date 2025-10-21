@@ -5,6 +5,8 @@
 
 My name is **Natalia A Rodriguez Figueroa** and I am a born and raised Puerto Rican from Mayagüez, Puerto Rico. My academic background includes a **Bachelor’s (BS) Degree in Industrial Engineering**, with a **minor in Project Management**, from the **University of Puerto Rico at Mayagüez**. Most recently, I earned a **Master’s (MS) Degree in Operations Research** from **University of California, Berkeley**.
 
+My work experience ranges from consumer goods, pharmaceutical benefit managers, manufacturing and technology companies. I was involved as a process improvement intern for these industries by working with ETL pipelines, dashboard management, A/B testing and algorithmic optimization strategies. 
+
 You can contact me through my current academic email: natalia_rodriguezuc@berkeley.edu
 
 You can also find me on LinkedIn here: <a href="https://www.linkedin.com/in/natalia-a-rodríguez-figueroa-5362101a1/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
@@ -17,11 +19,15 @@ I am interested in machine learning, data science, and their growing range of re
 
 While my foundation is in operations research and machine learning, I am increasingly focused on how optimization helps us design smarter, more interpretable, and more efficient AI systems. I’m especially drawn to the theoretical contributions of machine learning, and how rigorous modeling can support advances in algorithmic performance and real-world impact. I'm currently learning more about AI structures through advances on my past and current project applications. 
 
+After working as a Teaching Assistant for Data Analytics and Machine Learning courses in the MAnalytics department at UC Berkeley, I've also begun to deep dive into Data Science and Data Analytics projects in this site. Always looking forward to combining theoretical work with practical applications in several industry sectors.
+
 ---
 
 ### About my Projects 
 
-I currently have two main projects that I worked on during my undergraduate and graduate journey, which I have continued to build on since then. At UPR Mayagüez, my work centered on applying machine learning frameworks to improve survival prediction in pancreatic cancer, using feature selection techniques to enhance model performance. Later at UC Berkeley, I developed optimization methods to improve training efficiency in contrastive learning tasks, focusing on proximal and Newton-based approaches for AUC maximization.  
+I currently have two main projects that I worked on during my undergraduate and graduate journey, which I have continued to build on since then. At UPR Mayagüez, my work centered on applying machine learning frameworks to improve survival prediction in pancreatic cancer, using feature selection techniques to enhance model performance. 
+
+Later at UC Berkeley, I developed optimization methods to improve training efficiency in contrastive learning tasks, focusing on proximal and Newton-based approaches for AUC maximization.  
 
 #### Current Role:
 
